@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52675\\source\\repos\\LigaMX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|c:\\users\\52675\\source\\repos\\ligamx\\ligamx\\controllers\\ligamxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|solutionrelative:ligamx\\controllers\\ligamxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|c:\\users\\52675\\source\\repos\\ligamx\\ligamx\\models\\ligamxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|solutionrelative:ligamx\\models\\ligamxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|c:\\users\\52675\\source\\repos\\ligamx\\ligamx\\views\\ligamx\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|solutionrelative:ligamx\\views\\ligamx\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|c:\\users\\52675\\source\\repos\\ligamx\\ligamx\\views\\ligamx\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|solutionrelative:ligamx\\views\\ligamx\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|c:\\users\\52675\\source\\repos\\ligamx\\ligamx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291966D-7E03-43D4-903E-89BF86F48DCD}|LigaMX\\LigaMX.csproj|solutionrelative:ligamx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Program.cs",
+              "RelativeDocumentMoniker": "LigaMX\\Program.cs",
+              "ToolTip": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Program.cs",
+              "RelativeToolTip": "LigaMX\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:27:18.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Views\\LigaMx\\Create.cshtml",
+              "RelativeDocumentMoniker": "LigaMX\\Views\\LigaMx\\Create.cshtml",
+              "ToolTip": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Views\\LigaMx\\Create.cshtml",
+              "RelativeToolTip": "LigaMX\\Views\\LigaMx\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T04:52:36.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Views\\LigaMx\\Index.cshtml",
+              "RelativeDocumentMoniker": "LigaMX\\Views\\LigaMx\\Index.cshtml",
+              "ToolTip": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Views\\LigaMx\\Index.cshtml",
+              "RelativeToolTip": "LigaMX\\Views\\LigaMx\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T04:26:04.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LigaMxModel.cs",
+              "DocumentMoniker": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Models\\LigaMxModel.cs",
+              "RelativeDocumentMoniker": "LigaMX\\Models\\LigaMxModel.cs",
+              "ToolTip": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Models\\LigaMxModel.cs",
+              "RelativeToolTip": "LigaMX\\Models\\LigaMxModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:17:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LigaMxController.cs",
+              "DocumentMoniker": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Controllers\\LigaMxController.cs",
+              "RelativeDocumentMoniker": "LigaMX\\Controllers\\LigaMxController.cs",
+              "ToolTip": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\Controllers\\LigaMxController.cs",
+              "RelativeToolTip": "LigaMX\\Controllers\\LigaMxController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:46:09.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
