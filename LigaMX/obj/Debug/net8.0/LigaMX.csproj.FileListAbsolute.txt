@@ -225,3 +225,4 @@ C:\Users\52675\source\repos\LigaMX\LigaMX\obj\Debug\net8.0\refint\LigaMX.dll
 C:\Users\52675\source\repos\LigaMX\LigaMX\obj\Debug\net8.0\LigaMX.pdb
 C:\Users\52675\source\repos\LigaMX\LigaMX\obj\Debug\net8.0\LigaMX.genruntimeconfig.cache
 C:\Users\52675\source\repos\LigaMX\LigaMX\obj\Debug\net8.0\ref\LigaMX.dll
+C:\Users\52675\source\repos\LigaMX\LigaMX\obj\Debug\net8.0\LigaMX.sourcelink.json

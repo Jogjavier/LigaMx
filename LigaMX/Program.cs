@@ -3,15 +3,6 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
-
-app.UseHttpsRedirection();
-app.UseStaticFiles();
-
 app.UseRouting();
 
 app.MapControllerRoute(
@@ -20,10 +11,4 @@ app.MapControllerRoute(
 
 app.Run();
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Liga}/{action=Index}/{id?}");
-});
 
