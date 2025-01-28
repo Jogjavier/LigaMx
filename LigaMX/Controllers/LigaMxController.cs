@@ -18,21 +18,59 @@ namespace LigaMX.Controllers
 
             return View(partidos);
         }
+
+        [HttpGet]
         public IActionResult Create()
         {
-            LigaMx Model = new LigaMx();
-            return View(Model);
+            return View();
         }
+
+        // Acción POST para procesar la creación del nuevo partido
         [HttpPost]
-       
-        public IActionResult Create(LigaMx partido)
+        public IActionResult Create(LigaMx nuevoPartido)
         {
             if (ModelState.IsValid)
             {
-                partidos.Add(partido);
+                partidos.Add(nuevoPartido);
                 return RedirectToAction(nameof(Index));
             }
-                return View(partido);
+
+            return View(nuevoPartido);
+        }
+        [HttpGet]
+        public IActionResult Edit(string partido)
+        {
+            var partidoAEditar = partidos.FirstOrDefault(p => p.Partido == partido);
+            if (partidoAEditar == null)
+            {
+                return NotFound(); 
+            }
+
+            return View(partidoAEditar);
+        }
+        [HttpPost]
+        public IActionResult Edit(string partido, LigaMx partidoEditado)
+        {
+            if (ModelState.IsValid)
+            {
+                
+                var partidoOriginal = partidos.FirstOrDefault(p => p.Partido == partido);
+                if (partidoOriginal == null)
+                {
+                    return NotFound();
+                }
+
+                
+                partidoOriginal.Partido = partidoEditado.Partido;
+                partidoOriginal.Equipo1 = partidoEditado.Equipo1;
+                partidoOriginal.Equipo2 = partidoEditado.Equipo2;
+                partidoOriginal.Resultado = partidoEditado.Resultado;
+                partidoOriginal.Estadio = partidoEditado.Estadio;
+
+                return RedirectToAction(nameof(Index)); 
+            }
+
+            return View(partidoEditado); 
         }
     }
     // GET: LigaMxController
