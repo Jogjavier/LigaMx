@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LigaMX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a4f60c3dbf15b0d83be9934a3eb467e4fc6993")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5dece1df99695e73d51742b9c449605d41fbf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LigaMX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LigaMX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dq5ac0w2LIYD6Iwo3uJ27mqv5L0+kUXACXYQ1liAfy8=",
+  "Hash": "HGEm+Gmef7uD7qPFE/h8LjsFMOk033KdA//ouv30RNk=",
   "Source": "LigaMX",
   "BasePath": "_content/LigaMX",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\wwwroot\\data\\partidos.json",
+      "SourceId": "LigaMX",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\wwwroot\\",
+      "BasePath": "_content/LigaMX",
+      "RelativePath": "data/partidos.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\partidos.json"
     },
     {
       "Identity": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\wwwroot\\favicon.ico",

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\wwwroot\\data\\partidos.json",
+      "PackagePath": "staticwebassets\\data\\partidos.json"
+    },
+    {
       "Id": "C:\\Users\\52675\\source\\repos\\LigaMX\\LigaMX\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
